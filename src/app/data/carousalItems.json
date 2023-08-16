@@ -1,0 +1,42 @@
+{
+    "items": {
+        "bootstrap": [
+            {
+                "id": 1,
+                "title": "Cleaning Services",
+                "description": "Are you tired of Cleaning your Home and looking for a Professional Home Deep Cleaning Company in Dubai to help you? Don't worry! RST Technical Services LLC is the Best Option for Home Maid and Full Home deep cleaning services in Dubai Since 2009. We Pride Ourselves on being Obsessed with Providing our Customers with Stress-Free & Punctual Cleaning Services.",
+                "image": "https://images.pexels.com/photos/4108715/pexels-photo-4108715.jpeg"
+            },
+            {
+                "id": 2,
+                "title": "Plumbing Services",
+                "description": "Professionals who work with us can identify problems and fix them right. Our plumbers in Dubai have the training and skill to handle any problems with plumbing. We believe in honesty and sincerity. Our customers know that we like to work with efficiency.",
+                "image": "https://images.pexels.com/photos/6419128/pexels-photo-6419128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 3,
+                "title": "Electrician Services",
+                "description": "The electrical connections of your home is like its central system. Even a small issues can lead to major inconvenience. But, when it comes to managing electrical connections, it should only ever be assessed and carried out by qualified and experienced professionals. To save you from all worries & unnecessary expenses on repairs, RST Tech comes to the rescue with all services at affordable rates.",
+                "image": "https://images.pexels.com/photos/8005397/pexels-photo-8005397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 4,
+                "title": "Handyman Services",
+                "description": "We take all of your maintenance issues and arrange for best handyman services in Dubai. Whether you would like a single person, team of experts or someone who is proficient in specific handyman tasks, we can arrange them all for you. We make sure that all our handyman are professional and trained before they start working with us to maintain high service standards that you expect from us.",
+                "image": "https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 5,
+                "title": "Painting Services",
+                "description": "We are providing quality Painting Services in Dubai with many years of experience. Our expert painting teams offer painting services to homes, Villa, Apartments, and other Commercial buildings to satisfy the customer by upholding our standards of excellence. Our painters work on all kinds of interior and exterior residential, public, commercial, and industrial buildings. We maintain excellent equipment and high-quality materials used with time-tested techniques.",
+                "image": "https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 6,
+                "title": "AC Cleaning Services",
+                "description": "AC is one of the prime blisses of our day to day life, after a fight with the bright sun and tiring travel, the AC blows benevolent breeze of relief. But, every time you don’t get it service, it loses 5% of its overall efficiency. We can save you from suffocation and hot temperature within your place with quality AC maintenance services in UAE. Regular maintenance keeps your air healthy, reduces energy costs up to 25% and extends the life span of the unit.",
+                "image": "https://images.pexels.com/photos/6316067/pexels-photo-6316067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            }
+        ]
+    }
+}
